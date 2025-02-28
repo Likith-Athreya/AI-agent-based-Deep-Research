@@ -27,12 +27,14 @@ Getting started is easy! Follow these steps:
 1. Clone the Repository
 First, clone this repository to your local machine. Open your terminal and run:
 bash
+
 git clone https://github.com/your-username/Deep-Research-AI-Agentic-System.git
 
-2. Install Dependencies
+3. Install Dependencies
 Make sure you have Python installed. Then, navigate to the project directory and install the required dependencies:
 
 bash
+
 cd Deep-Research-AI-Agentic-System
 pip install -r requirements.txt
 
@@ -43,6 +45,7 @@ You'll need a Tavily API key to use the web search functionality. Here's how to 
 Once everything is set up, you can run the system with your query. For example:
 
 bash
+
 python researchagent.py
 The system will ask for a query (e.g., "Latest advancements in AI safety research") and generate a summary based on the search results.
 
