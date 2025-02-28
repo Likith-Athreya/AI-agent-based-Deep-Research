@@ -1,6 +1,6 @@
-# Deep Research AI Agentic System
+# AI-agent-based-Deep-Research
 
-Welcome to the **Deep Research AI Agentic System** This project is a smart, dual-agent system designed to help you gather and summarize information from the web effortlessly. Whether you're researching the latest advancements in AI or exploring any topic, this system has got you covered.
+Welcome to the **AI-agent-based-Deep-Research** This project is a smart, dual-agent system designed to help you gather and summarize information from the web effortlessly. Whether you're researching the latest advancements in AI or exploring any topic, this system has got you covered.
 
 # What Does It Do?
 
@@ -28,18 +28,18 @@ Getting started is easy! Follow these steps:
 First, clone this repository to your local machine. Open your terminal and run:
 bash
 
-git clone https://github.com/your-username/Deep-Research-AI-Agentic-System.git
+git clone https://github.com/your-username/AI-agent-based-Deep-Research.git
 
 3. Install Dependencies
 Make sure you have Python installed. Then, navigate to the project directory and install the required dependencies:
 
 bash
 
-cd Deep-Research-AI-Agentic-System
+cd AI-agent-based-Deep-Research
 pip install -r requirements.txt
 
 3. Set Up Your Environment
-You'll need a Tavily API key to use the web search functionality. Here's how to set it up:
+You'll need a Tavily API key to use the web search functionality.
 
 4. Run the System
 Once everything is set up, you can run the system with your query. For example:
@@ -47,6 +47,7 @@ Once everything is set up, you can run the system with your query. For example:
 bash
 
 python researchagent.py
+
 The system will ask for a query (e.g., "Latest advancements in AI safety research") and generate a summary based on the search results.
 
 Example Output
@@ -96,5 +97,5 @@ Tavily: For providing an excellent web search API.
 Hugging Face: For the amazing facebook/bart-large-cnn model.
 
 LangChain: For making it easy to build modular and extensible AI systems.
-
+Please contact incase of any confusions.
 Thank you for checking out my project! I hope you find it as exciting as I do.
